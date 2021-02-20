@@ -1,0 +1,15 @@
+Notification when earthquake happened
+Notification of the aftershocks
+Information of disaster relief
+Display the map of the earthquake location
+Information of the earthquake magnitude
+Display the time of the earthquake
+Educational information on actions when an earthquake occurs
+Display data of the previous earthquakes
+Information about first aid
+Information on how to deal with post-earthquake trauma
+Latest news related to earthquake
+Display the gathering point / safe zone in user’s area
+Show victim data (lost and found)
+Display emergency numbers
+Fundraising and donation information

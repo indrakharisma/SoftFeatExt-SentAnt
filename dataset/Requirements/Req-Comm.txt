@@ -1,0 +1,10 @@
+User can sign up for a new account.
+User can filter search result.
+User can sort search result.
+User can add product to shopping cart.
+User can see the total amount to pay before checkout.
+User can track delivery status.
+User can interact with seller using chat room.
+User can see purchase history.
+User can give a product review.
+User can report frauds or scams.
